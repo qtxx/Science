@@ -1,0 +1,60 @@
+/r/science is a moderated subreddit, please review the [Rules for Submissions](http://www.reddit.com/r/science/wiki/rules#wiki_submission_rules) before submitting to /r/science, and [Rules for Comments](http://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) before commenting.
+
+---
+
+Submissions and Comments that violate the rules will be removed, as will all replies to inappropriate comments. Please report violations.
+
+## [Reddit Science AMA Submission Guide](https://drive.google.com/open?id=0B3fzgHAW-mVZM0NndWNNZHNFQjA)
+
+---
+
+## [New to reddit? Click here!](https://www.reddit.com/wiki/reddit_101)
+
+## [Get flair in /r/science](https://www.reddit.com/r/science/wiki/flair)
+
+## [Previous Science AMA's](https://www.reddit.com/r/science/search?q=flair%3A%27AMA%27&sort=new&restrict_sr=on)
+
+> #####**filter by field**
+- [Medicine](https://goo.gl/OZSWU1)
+- [Epidemiology](https://goo.gl/Vp4AJ7)
+- [Physics](https://goo.gl/wUbgeR)
+- [Computer Sci](https://goo.gl/HgTxKh)
+- [Astronomy](https://goo.gl/Eanj74)
+- [Mathematics](https://goo.gl/9UkC8g)
+- [Health](https://goo.gl/CfNLn6)
+- [Chemistry](https://goo.gl/jpmNsD)
+- [Nanoscience](https://goo.gl/EmI4nx)
+- [Biology](https://goo.gl/g2d5Dc)
+- [Environment](https://goo.gl/y80guA)
+- [Animal Sci](https://goo.gl/6rzIUN)
+- [Neuroscience](https://goo.gl/qxy0pm)
+- [Psychology](https://goo.gl/viMRlW)
+- [Cancer](https://goo.gl/b9ImCX)
+- [Soc Sciences](https://goo.gl/U3Wxqw)
+- [Anthropology](https://goo.gl/joHVPH)
+- [Earth Sci](https://goo.gl/UcPwQi)
+- [Paleontology](https://goo.gl/XhIgYF)
+- [Engineering](https://goo.gl/Fn5lVR)
+- [Geology](https://goo.gl/OomVX8)
+- [Sci Discussion](https://goo.gl/3RxnJP)
+
+---
+
+# Upcoming AMAs *(All times and dates are USA East Coast Time)*
+
+Date Time (Eastern Time - USA)|Person|Description
+:-------:|:--------:|:--------:
+1 Sep - 11am|American Chemical Society AMA|Portable Diagnostic Devices
+2 Sep - 1pm|PLOS Science Wednesday: Caitlin Dunn, Deborah McFarland, and Kelly Callahan|Global Health: Neglected Tropical Diseases
+3 Sep - 1pm|Matt Thomson, UCSF|Biophysics
+4 Sep - 11am|Oil-Climate Researchers|Creating a Global Oil-Climate Index
+5 Sep - 1pm|The JOIDES Resolution|Marine Geology on a Scientific Drilling Ship
+7 Sep - 1pm|Stephanie Huette|Language processing
+8 Sep - 11am|American Chemical Society AMA| |
+9 Sep - 8am|Forensic Psychology Unit|How psychological science is improving criminal justice
+9 Sep - 1pm|PLOS Science Wednesday: Stuart Kim|Genome sequencing of supercentenarians
+10 Sep - 1pm|Alain Laederach UNC-Chapel Hill|RNA Biology
+
+###### Announcement bar, to [remove](https://www.google.com/) comment out css and remove sidebar markup
+
+[](#/RES_SR_Config/NightModeCompatible)
